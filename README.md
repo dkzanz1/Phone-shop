@@ -1,4 +1,5 @@
 # e-commerce
+To open use live server
 This was one of my first copy cat projects to get hand on experience.
 This project is set up using:-
 A client-side application:-

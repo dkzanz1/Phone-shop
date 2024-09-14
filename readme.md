@@ -8,4 +8,4 @@ fav page for buying
 5/Next page from enter is selector page choses of shop option
 6/which link to ordering page.Zogg is live page.
 7/connected to wpcodevo.com and picked up a video to creat an e-commerce site
-8/added to my original and i am foolwing the tutorial
+8/added to my original and i am following the tutorial
