@@ -1,6 +1,6 @@
-# e-commerce
+# e-commerce site 
 To open use live server
-This was one of my first copy cat projects to get hand on experience.
+This was one of my first copy cat projects to get general build experience.
 This project is set up using:-
 A client-side application:-
 1/It runs entirely in the user's web browser without needing to communicate with a server
