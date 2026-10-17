@@ -1,29 +1,38 @@
-# e-commerce site 
-To open use live server
-This was one of my first copy cat projects to get general build experience.
-This project is set up using:-
-A client-side application:-
-1/It runs entirely in the user's web browser without needing to communicate with a server
-2/It is a Static website with no dynamic server-side processing or database interaction.
-3/Serving HTML, CSS, and JavaScript files directly to the browser via a simple HTTP server.
-3/Running Live Server in Visual Studio Code successfully serves the project.
-4/Development convenience: 
-During development, tools like Live Server in Visual Studio Code can simplify the process of serving static files and provide a convenient environment for testing and debugging client-side code without the need for a separate server.
-5/ when the projects evolves and requires server-side functionality,such API, dynamic content or a database I will include server.js or express and covert it into a React project+
-6/I will add it to my portfolio by:-
-a/adding a brief description of it highlighting it purpose,features,and tech used,i will include any relevent detail to help user to understand the project relevance in my growth.
-b/I will include screen shots.
-c/Include a link via github
-7/In the future i will optimize the project for mobile further cause currenlty a bit clunky
-8/Make the button functional
-OVERVIEW OF IDEA:-
-1/multishop site-one location for all your favourites
-2/go to multishop choose webpage listed and move to ordering online on your chosen site
-3/Tesco.M&S,Sainburys etc Zoggs store is live example other are links to 
-fav page for buying
-4/home.html is landing page-(focus)-entrance. created as enter point Welcome! page with picture no nav?contact etc all on next page.
+# Phone Shop UI — Interactive Multi-Shop Prototype (`phone-shop`)
 
-5/Next page from enter is selector page choses of shop option
-6/which link to ordering page.Zogg is live page.
-7/connected to wpcodevo.com and picked up a video to creat an e-commerce site
-8/added to my original and i am following the tutorial
+[![CI Build Verification](https://github.com/dkzanz1/phone-shop/actions/workflows/node.js.yml/badge.svg)](https://github.com/dkzanz1/phone-shop/actions/workflows/node.js.yml)
+![Stack](https://img.shields.io/badge/stack-HTML5%20%7C%20CSS3%20%7C%20JavaScript-blue)
+![Type](https://img.shields.io/badge/type-Learning%20Case%20Study-brightgreen)
+
+A client-side e-commerce landing page and multi-shop navigation concept built to explore static site architecture, custom carousel sliders, and multi-page user flows.
+
+> **Context:** Built following an e-commerce tutorial from **wpcodevo.com** and customized with original features to practice client-side web development and UI structuring.
+
+---
+
+## 🛠️ Application Architecture & User Flow
+
+- **Client-Side Static Architecture:** Runs entirely in the web browser as a static site using HTML5, CSS3, and vanilla JavaScript without requiring server-side processing or a database.
+- **Navigation Flow:** 
+  1. **`home.html` (Entrance):** Clean welcome landing page acting as the focal point before entering the main application.
+  2. **Selector Page:** Central hub allowing users to choose from multiple retail options (featuring a live Zoggs store implementation alongside external links to favorite shopping destinations).
+- **Development Environment:** Configured for local testing and debugging using VS Code's Live Server extension.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend Core:** JavaScript (ES6+), HTML5, CSS3
+- **Development Tooling:** Node.js environment, VS Code Live Server
+- **Quality & CI:** GitHub Actions (Node.js CI runner)
+
+---
+
+## ⚙️ Local Setup & Viewing
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/dkzanz1/phone-shop.git](https://github.com/dkzanz1/phone-shop.git)
+   cd phone-shop
